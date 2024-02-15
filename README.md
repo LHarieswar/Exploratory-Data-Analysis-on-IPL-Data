@@ -1,5 +1,5 @@
 # Exploratory Data Analysis on of IPL Data
-## In-Depth Examination of IPL Data (2008-2021)
+### In-Depth Examination of IPL Data (2008-2021)
 Data Visualization Project implemented in Python
 
 ## Project Objectives:
