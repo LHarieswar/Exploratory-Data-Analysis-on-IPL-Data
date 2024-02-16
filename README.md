@@ -11,4 +11,4 @@ This project aims to develop proficiency in Data Analysis and Data Visualization
 3. Visualize the dataset through diverse plot graphs employing Matplotlib and Seaborn libraries.
 
 ## Tools Utilized:
-NumPy, Pandas, Matplotlib, Seaborn
+Pandas, NumPy, Matplotlib, Seaborn
